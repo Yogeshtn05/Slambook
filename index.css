@@ -1,0 +1,17 @@
+body{
+    background: linear-gradient(rgba(116, 114, 114, 0.5), rgba(0, 0, 0, 0.7)), 
+    url('./back-img.jpeg');
+    background-size: cover; /* Adjust the size of the image */
+    background-repeat: no-repeat; /* Prevent the image from repeating */
+    background-position: center; /* Center the image */
+    background-blend-mode: lighten;
+}
+div{
+    background-color: rgba(71, 70, 70, 0.5);
+    color:rgb(255, 252, 249);
+    place-self: center;
+    margin-top: 10%;
+    font-size: x-large;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    text-decoration-skip: 100%;
+}
